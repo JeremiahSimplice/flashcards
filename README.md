@@ -31,4 +31,5 @@ You click cards to flip them and see answers
 You keep clicking "Next" until you've studied all the cards
 
 It's basically a digital flip-card game that helps you memorize computer stuff for school! 
+
 Instead of paper cards that you carry around, you have them on your computer with cool spinning animations.
