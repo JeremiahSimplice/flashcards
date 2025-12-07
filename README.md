@@ -13,9 +13,13 @@ What Are All These Files?
 Think of it like building a treehouse:
 
 index.html - This is like the floor and walls of your treehouse. It's the main structure.
+
 styles.css - This is like the paint and decorations. It makes everything look pretty with colors and animations.
+
 app.js - This is like the secret mechanisms that make doors open and ladders work. It makes the cards flip and buttons work.
+
 serve.py - This is like a magic door that lets you walk into your treehouse easily. It opens up the project in your web browser.
+
 README.md - This is like the instruction manual that tells you how everything works.
 
 How Do You Use It?
